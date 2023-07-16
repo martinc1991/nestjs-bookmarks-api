@@ -1,0 +1,6 @@
+{
+  "prettier.enableDebugLogs": true,
+  "prettier.useEditorConfig": false,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative"
+}
